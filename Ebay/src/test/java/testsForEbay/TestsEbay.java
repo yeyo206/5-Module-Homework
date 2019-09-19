@@ -25,5 +25,12 @@ public class TestsEbay extends SearchesEbay {
     public void testByAgeCategories(){
         clickByAgesCatogories();
     }
-
+    @Test
+    public void testShoppingCartButton(){
+        clickShoppingCar();
+    }
+    @Test
+    public void testAllCategories_EbayMotors(){
+        clickEbayMotors();
+    }
 }

@@ -30,6 +30,7 @@ public class SearchesEbay extends CommonAPI {
     @FindBy(xpath = "//h1") public static WebElement header;
     @FindBy(id = "gh-btn") public static WebElement searchButton;
     @FindBy(xpath = "//section[@id='w2-w3']/ul/li") public static List<WebElement> byAgesCatgories;
+    @FindBy(xpath = "//a[@title='Your shopping cart']") public static WebElement shoppingCartButton;
 
     public void searchForMustangParts(){
         searchBar.sendKeys("mustang parts");
@@ -55,6 +56,18 @@ public class SearchesEbay extends CommonAPI {
         }
         explicitlyWait(5).until(ExpectedConditions.visibilityOf(header));
         Assert.assertTrue(header.getText().contains("1-2 Years"));
+    }
+
+    public void clickShoppingCar(){
+        shoppingCartButton.click();
+        Assert.assertTrue(header.getText().equalsIgnoreCase("Shopping cart"));
+    }
+    public void  clickEbayMotors(){Select select = new Select(allCategoriesDropDown);
+        select.selectByVisibleText("eBay Motors");
+        searchButton.click();
+        explicitlyWait(5).until(ExpectedConditions.visibilityOf(header));
+        Assert.assertTrue(header.getText().equalsIgnoreCase("eBay Motors"));
+
     }
 
 }
