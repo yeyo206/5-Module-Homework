@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5699a15-1c49-4e8d-883d-60e0566385a4" name="Default Changelist" comment="" />
+    <list default="true" id="a5699a15-1c49-4e8d-883d-60e0566385a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cnn/src/main/java/CnnSearches/SearchesCnn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cnn/src/test/java/SearchesTests/SearchesCnnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/base/UrlSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alibaba/src/main/java/homepage/Searches.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/src/main/java/homepage/Searches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alibaba/src/test/java/SearchesTests/Searches_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/src/test/java/SearchesTests/Searches_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alibaba/target/classes/homepage/Searches.class" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/target/classes/homepage/Searches.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alibaba/target/test-classes/SearchesTests/Searches_Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/target/test-classes/SearchesTests/Searches_Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -22,51 +37,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-                <element signature="e#831#832#0" expanded="true" />
-                <element signature="e#939#940#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Alibaba/src/main/java/homepage/Searches.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Alibaba/src/test/java/SearchesTests/Searches_Tests.java">
+        <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="308">
+              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,9 +76,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -91,10 +94,15 @@
         <option value="$PROJECT_DIR$/MiamiHerald/pom.xml" />
         <option value="$PROJECT_DIR$/Alibaba/pom.xml" />
         <option value="$PROJECT_DIR$/Alibaba/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/UrlSetup.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Alibaba/src/test/java/SearchesTests/Searches_Tests.java" />
         <option value="$PROJECT_DIR$/Alibaba/src/main/java/homepage/Searches.java" />
+        <option value="$PROJECT_DIR$/Cnn/src/test/java/SearchesTests/SearchesCnnTest.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java" />
+        <option value="$PROJECT_DIR$/Cnn/src/main/java/CnnSearches/SearchesCnn.java" />
+        <option value="$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java" />
       </list>
     </option>
   </component>
@@ -111,12 +119,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="3" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-54" />
+    <option name="y" value="140" />
     <option name="width" value="1437" />
-    <option name="height" value="808" />
+    <option name="height" value="806" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,49 +142,49 @@
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homepage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CnnSearches" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -183,11 +192,51 @@
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="SearchesTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="NyTimes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,10 +246,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -222,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Searches_Tests.validateErrorMessageOnNullEmail">
+  <component name="RunManager" selected="TestNG.SearchesCnnTest.testUsButton">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="Framework" />
       <option name="VM_PARAMETERS" />
@@ -270,8 +320,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Searches_Tests.hoverOverTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Alibaba" />
+    <configuration name="SearchesCnnTest.testUsButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cnn" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SearchesTests.*" />
@@ -279,8 +329,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SearchesTests" />
-      <option name="MAIN_CLASS_NAME" value="SearchesTests.Searches_Tests" />
-      <option name="METHOD_NAME" value="hoverOverTest" />
+      <option name="MAIN_CLASS_NAME" value="SearchesTests.SearchesCnnTest" />
+      <option name="METHOD_NAME" value="testUsButton" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -288,8 +338,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Searches_Tests.iphoneSearch" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Alibaba" />
+    <configuration name="SearchesCnnTest.testWorldButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cnn" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SearchesTests.*" />
@@ -297,8 +347,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SearchesTests" />
-      <option name="MAIN_CLASS_NAME" value="SearchesTests.Searches_Tests" />
-      <option name="METHOD_NAME" value="iphoneSearch" />
+      <option name="MAIN_CLASS_NAME" value="SearchesTests.SearchesCnnTest" />
+      <option name="METHOD_NAME" value="testWorldButton" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -306,17 +356,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Searches_Tests.validateErrorMessageOnNullEmail" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Alibaba" />
+    <configuration name="TestsEbay.testAllCategories_Toys" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SearchesTests.*" />
+          <option name="PATTERN" value="testsForEbay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SearchesTests" />
-      <option name="MAIN_CLASS_NAME" value="SearchesTests.Searches_Tests" />
-      <option name="METHOD_NAME" value="validateErrorMessageOnNullEmail" />
+      <option name="PACKAGE_NAME" value="testsForEbay" />
+      <option name="MAIN_CLASS_NAME" value="testsForEbay.TestsEbay" />
+      <option name="METHOD_NAME" value="testAllCategories_Toys" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -324,17 +374,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Searches_Tests.whosalerSale" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Alibaba" />
+    <configuration name="TestsEbay.testByAgeCategories (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SearchesTests.*" />
+          <option name="PATTERN" value="testsForEbay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SearchesTests" />
-      <option name="MAIN_CLASS_NAME" value="SearchesTests.Searches_Tests" />
-      <option name="METHOD_NAME" value="whosalerSale" />
+      <option name="PACKAGE_NAME" value="testsForEbay" />
+      <option name="MAIN_CLASS_NAME" value="testsForEbay.TestsEbay" />
+      <option name="METHOD_NAME" value="testByAgeCategories" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsEbay.testByAgeCategories" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsForEbay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsForEbay" />
+      <option name="MAIN_CLASS_NAME" value="testsForEbay.TestsEbay" />
+      <option name="METHOD_NAME" value="testByAgeCategories" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -344,10 +413,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Searches_Tests.validateErrorMessageOnNullEmail" />
-        <item itemvalue="TestNG.Searches_Tests.hoverOverTest" />
-        <item itemvalue="TestNG.Searches_Tests.whosalerSale" />
-        <item itemvalue="TestNG.Searches_Tests.iphoneSearch" />
+        <item itemvalue="TestNG.SearchesCnnTest.testUsButton" />
+        <item itemvalue="TestNG.SearchesCnnTest.testWorldButton" />
+        <item itemvalue="TestNG.TestsEbay.testByAgeCategories" />
+        <item itemvalue="TestNG.TestsEbay.testByAgeCategories (1)" />
+        <item itemvalue="TestNG.TestsEbay.testAllCategories_Toys" />
       </list>
     </recent_temporary>
   </component>
@@ -365,39 +435,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Searches_Tests_hoverOverTest - 2019.09.16 at 23h 18m 29s.xml">
-      <configuration name="Searches_Tests.hoverOverTest" configurationId="TestNG" />
+    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 21h 58m 16s.xml">
+      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_hoverOverTest - 2019.09.16 at 23h 19m 53s.xml">
-      <configuration name="Searches_Tests.hoverOverTest" configurationId="TestNG" />
+    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 00m 09s.xml">
+      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_hoverOverTest - 2019.09.16 at 23h 21m 18s.xml">
-      <configuration name="Searches_Tests.hoverOverTest" configurationId="TestNG" />
+    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 02m 51s.xml">
+      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_hoverOverTest - 2019.09.16 at 23h 23m 06s.xml">
-      <configuration name="Searches_Tests.hoverOverTest" configurationId="TestNG" />
+    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 05m 26s.xml">
+      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_hoverOverTest - 2019.09.16 at 23h 24m 41s.xml">
-      <configuration name="Searches_Tests.hoverOverTest" configurationId="TestNG" />
+    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 08m 21s.xml">
+      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_hoverOverTest - 2019.09.16 at 23h 25m 22s.xml">
-      <configuration name="Searches_Tests.hoverOverTest" configurationId="TestNG" />
+    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 09m 31s.xml">
+      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_hoverOverTest - 2019.09.16 at 23h 25m 59s.xml">
-      <configuration name="Searches_Tests.hoverOverTest" configurationId="TestNG" />
+    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 10m 00s.xml">
+      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_validateErrorMessageOnNullEmail - 2019.09.16 at 23h 44m 16s.xml">
-      <configuration name="Searches_Tests.validateErrorMessageOnNullEmail" configurationId="TestNG" />
+    <history-entry file="TestsEbay_testByAgeCategories - 2019.09.18 at 22h 12m 29s.xml">
+      <configuration name="TestsEbay.testByAgeCategories" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_validateErrorMessageOnNullEmail - 2019.09.16 at 23h 47m 24s.xml">
-      <configuration name="Searches_Tests.validateErrorMessageOnNullEmail" configurationId="TestNG" />
+    <history-entry file="SearchesCnnTest_testWorldButton - 2019.09.18 at 22h 16m 44s.xml">
+      <configuration name="SearchesCnnTest.testWorldButton" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Searches_Tests_validateErrorMessageOnNullEmail - 2019.09.16 at 23h 49m 53s.xml">
-      <configuration name="Searches_Tests.validateErrorMessageOnNullEmail" configurationId="TestNG" />
+    <history-entry file="SearchesCnnTest_testUsButton - 2019.09.18 at 22h 18m 10s.xml">
+      <configuration name="SearchesCnnTest.testUsButton" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="808" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25250357" />
@@ -407,17 +477,17 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32960895" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34457833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.43156424" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.34357542" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.38235295" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -457,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MiamiHerald/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Alibaba/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -485,46 +548,173 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/SearchesEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiamiHerald/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="485">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/UrlSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Alibaba/src/main/java/homepage/Searches.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+        <state relative-caret-position="-169">
+          <caret line="30" column="117" selection-start-line="30" selection-start-column="117" selection-end-line="30" selection-end-column="117" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/MethodRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="379" selection-start-line="379" selection-end-line="379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/SuiteRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="e#2489#2490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="905" selection-start-line="905" selection-end-line="905" />
+          <folding>
+            <element signature="e#35194#35195#0" expanded="true" />
+            <element signature="e#35240#35241#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Alibaba/src/test/java/SearchesTests/Searches_Tests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="313">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
             <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/internal/TestInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/SearchesTests/SearchesCnnTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/CnnSearches/SearchesCnn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -579,10 +769,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>Ebay</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

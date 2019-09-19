@@ -19,7 +19,8 @@ public class Searches_Tests extends Searches {
         searchForIphone();
     }
     @Test
-    public void whosalerSale(){
+    public void whosalerSale()
+    {
         searchIphoneWholeSaler();
     }
     @Test
@@ -27,7 +28,12 @@ public class Searches_Tests extends Searches {
         categoriesHoverOver();
     }
     @Test
-    public void validateErrorMessageOnNullEmail(){
+    public void validateErrorMessageOnNullEmail()
+    {
         subscribeViaEmailWithBlankEmailBox();
+    }
+    @Test
+    public void ValidateORderButtom(){
+        orderButtom();
     }
 }
