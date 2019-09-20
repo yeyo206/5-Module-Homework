@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5699a15-1c49-4e8d-883d-60e0566385a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiamiHerald/src/main/java/MiamiHeraldSearches/MiamiHeraldSearches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiamiHerald/src/test/java/MiamiHeraldTests/MiamiHeraldTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NyTimes/src/main/java/NyTimesSearches/NyTimesSearches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NyTimes/src/test/java/NyTimesTests/NyTimesSearchesTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="790">
               <caret line="68" column="72" selection-start-line="68" selection-start-column="72" selection-end-line="68" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -39,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
+            <state relative-caret-position="495">
               <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,6 +63,65 @@
                 <element signature="e#765#766#0" expanded="true" />
                 <element signature="e#823#824#0" expanded="true" />
                 <element signature="e#856#857#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MiamiHerald/src/main/java/MiamiHeraldSearches/MiamiHeraldSearches.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="24" column="59" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="24" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NyTimes/src/main/java/NyTimesSearches/NyTimesSearches.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NyTimes/src/test/java/NyTimesTests/NyTimesSearchesTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,13 +152,17 @@
         <option value="$PROJECT_DIR$/Alibaba/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/UrlSetup.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Alibaba/src/test/java/SearchesTests/Searches_Tests.java" />
         <option value="$PROJECT_DIR$/Alibaba/src/main/java/homepage/Searches.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/SearchesTests/SearchesCnnTest.java" />
         <option value="$PROJECT_DIR$/Cnn/src/main/java/CnnSearches/SearchesCnn.java" />
         <option value="$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java" />
         <option value="$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java" />
+        <option value="$PROJECT_DIR$/MiamiHerald/src/test/java/MiamiHeraldTests/MiamiHeraldTests.java" />
+        <option value="$PROJECT_DIR$/MiamiHerald/src/main/java/MiamiHeraldSearches/MiamiHeraldSearches.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/NyTimes/src/test/java/NyTimesTests/NyTimesSearchesTests.java" />
+        <option value="$PROJECT_DIR$/NyTimes/src/main/java/NyTimesSearches/NyTimesSearches.java" />
       </list>
     </option>
   </component>
@@ -134,65 +202,6 @@
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="CnnSearches" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SearchesTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
               <item name="Generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -228,7 +237,62 @@
             <path>
               <item name="framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="MiamiHerald" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="MiamiHerald" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="MiamiHerald" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="MiamiHerald" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="MiamiHerald" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MiamiHeraldSearches" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
               <item name="NyTimes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="NyTimes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="NyTimes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="NyTimes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestsEbay.testAllCategories_EbayMotors">
+  <component name="RunManager" selected="TestNG.NyTimesSearchesTests.testSubscribeButton">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="Framework" />
       <option name="VM_PARAMETERS" />
@@ -312,89 +376,89 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchesCnnTest.testUsButton" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cnn" />
+    <configuration name="NyTimesSearchesTests.testSearchBar" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NyTimes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SearchesTests.*" />
+          <option name="PATTERN" value="NyTimesTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SearchesTests" />
-      <option name="MAIN_CLASS_NAME" value="SearchesTests.SearchesCnnTest" />
+      <option name="PACKAGE_NAME" value="NyTimesTests" />
+      <option name="MAIN_CLASS_NAME" value="NyTimesTests.NyTimesSearchesTests" />
+      <option name="METHOD_NAME" value="testSearchBar" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NyTimesSearchesTests.testSubscribeButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NyTimes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NyTimesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NyTimesTests" />
+      <option name="MAIN_CLASS_NAME" value="NyTimesTests.NyTimesSearchesTests" />
+      <option name="METHOD_NAME" value="testSubscribeButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NyTimesSearchesTests.testTechButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NyTimes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NyTimesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NyTimesTests" />
+      <option name="MAIN_CLASS_NAME" value="NyTimesTests.NyTimesSearchesTests" />
+      <option name="METHOD_NAME" value="testTechButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NyTimesSearchesTests.testTravelButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NyTimes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NyTimesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NyTimesTests" />
+      <option name="MAIN_CLASS_NAME" value="NyTimesTests.NyTimesSearchesTests" />
+      <option name="METHOD_NAME" value="testTravelButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NyTimesSearchesTests.testUsButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NyTimes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NyTimesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NyTimesTests" />
+      <option name="MAIN_CLASS_NAME" value="NyTimesTests.NyTimesSearchesTests" />
       <option name="METHOD_NAME" value="testUsButton" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchesCnnTest.testWorldButton" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cnn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SearchesTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SearchesTests" />
-      <option name="MAIN_CLASS_NAME" value="SearchesTests.SearchesCnnTest" />
-      <option name="METHOD_NAME" value="testWorldButton" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestsEbay.testAllCategories_EbayMotors" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Ebay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testsForEbay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testsForEbay" />
-      <option name="MAIN_CLASS_NAME" value="testsForEbay.TestsEbay" />
-      <option name="METHOD_NAME" value="testAllCategories_EbayMotors" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestsEbay.testByAgeCategories" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Ebay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testsForEbay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testsForEbay" />
-      <option name="MAIN_CLASS_NAME" value="testsForEbay.TestsEbay" />
-      <option name="METHOD_NAME" value="testByAgeCategories" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestsEbay.testShoppingCartButton" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Ebay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testsForEbay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testsForEbay" />
-      <option name="MAIN_CLASS_NAME" value="testsForEbay.TestsEbay" />
-      <option name="METHOD_NAME" value="testShoppingCartButton" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -404,11 +468,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestsEbay.testAllCategories_EbayMotors" />
-        <item itemvalue="TestNG.TestsEbay.testShoppingCartButton" />
-        <item itemvalue="TestNG.SearchesCnnTest.testUsButton" />
-        <item itemvalue="TestNG.SearchesCnnTest.testWorldButton" />
-        <item itemvalue="TestNG.TestsEbay.testByAgeCategories" />
+        <item itemvalue="TestNG.NyTimesSearchesTests.testSubscribeButton" />
+        <item itemvalue="TestNG.NyTimesSearchesTests.testSearchBar" />
+        <item itemvalue="TestNG.NyTimesSearchesTests.testTravelButton" />
+        <item itemvalue="TestNG.NyTimesSearchesTests.testTechButton" />
+        <item itemvalue="TestNG.NyTimesSearchesTests.testUsButton" />
       </list>
     </recent_temporary>
   </component>
@@ -426,35 +490,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 02m 51s.xml">
-      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSearchBar - 2019.09.19 at 22h 00m 18s.xml">
+      <configuration name="NyTimesSearchesTests.testSearchBar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 05m 26s.xml">
-      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSearchBar - 2019.09.19 at 22h 02m 15s.xml">
+      <configuration name="NyTimesSearchesTests.testSearchBar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 08m 21s.xml">
-      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSearchBar - 2019.09.19 at 22h 07m 23s.xml">
+      <configuration name="NyTimesSearchesTests.testSearchBar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 09m 31s.xml">
-      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSearchBar - 2019.09.19 at 22h 08m 38s.xml">
+      <configuration name="NyTimesSearchesTests.testSearchBar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsEbay_testByAgeCategories_(1) - 2019.09.18 at 22h 10m 00s.xml">
-      <configuration name="TestsEbay.testByAgeCategories (1)" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSearchBar - 2019.09.19 at 22h 15m 01s.xml">
+      <configuration name="NyTimesSearchesTests.testSearchBar" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsEbay_testByAgeCategories - 2019.09.18 at 22h 12m 29s.xml">
-      <configuration name="TestsEbay.testByAgeCategories" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSubscribeButton - 2019.09.19 at 22h 24m 23s.xml">
+      <configuration name="NyTimesSearchesTests.testSubscribeButton" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchesCnnTest_testWorldButton - 2019.09.18 at 22h 16m 44s.xml">
-      <configuration name="SearchesCnnTest.testWorldButton" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSubscribeButton - 2019.09.19 at 22h 25m 07s.xml">
+      <configuration name="NyTimesSearchesTests.testSubscribeButton" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SearchesCnnTest_testUsButton - 2019.09.18 at 22h 18m 10s.xml">
-      <configuration name="SearchesCnnTest.testUsButton" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSubscribeButton - 2019.09.19 at 22h 29m 52s.xml">
+      <configuration name="NyTimesSearchesTests.testSubscribeButton" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsEbay_testShoppingCartButton - 2019.09.18 at 22h 55m 36s.xml">
-      <configuration name="TestsEbay.testShoppingCartButton" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSubscribeButton - 2019.09.19 at 22h 30m 24s.xml">
+      <configuration name="NyTimesSearchesTests.testSubscribeButton" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestsEbay_testAllCategories_EbayMotors - 2019.09.18 at 23h 06m 00s.xml">
-      <configuration name="TestsEbay.testAllCategories_EbayMotors" configurationId="TestNG" />
+    <history-entry file="NyTimesSearchesTests_testSubscribeButton - 2019.09.19 at 22h 31m 22s.xml">
+      <configuration name="NyTimesSearchesTests.testSubscribeButton" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -492,19 +556,13 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java</url>
-          <line>32</line>
-          <properties class="testsForEbay.TestsEbay" method="testAllCategories_EbayMotors">
+          <url>file://$PROJECT_DIR$/NyTimes/src/test/java/NyTimesTests/NyTimesSearchesTests.java</url>
+          <line>36</line>
+          <properties class="NyTimesTests.NyTimesSearchesTests" method="testSubscribeButton">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="21" />
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -570,16 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -700,9 +748,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MiamiHerald/src/test/java/MiamiHeraldTests/MiamiHeraldTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ebay/src/main/java/searchesForEbay/SearchesEbay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="790">
           <caret line="68" column="72" selection-start-line="68" selection-start-column="72" selection-end-line="68" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -712,9 +774,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ebay/src/test/java/testsForEbay/TestsEbay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="495">
           <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -730,6 +802,47 @@
             <element signature="e#765#766#0" expanded="true" />
             <element signature="e#823#824#0" expanded="true" />
             <element signature="e#856#857#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiamiHerald/src/main/java/MiamiHeraldSearches/MiamiHeraldSearches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="24" column="59" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="24" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NyTimes/src/main/java/NyTimesSearches/NyTimesSearches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NyTimes/src/test/java/NyTimesTests/NyTimesSearchesTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
           </folding>
         </state>
       </provider>

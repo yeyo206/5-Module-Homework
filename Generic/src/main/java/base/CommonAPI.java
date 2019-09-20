@@ -31,10 +31,10 @@ public class CommonAPI {
                 driver.get("http://www.ebay.com/");
                 break;
             case NyTimes:
-                driver.get("http://WWW..com/");
+                driver.get("https://www.nytimes.com/");
                 break;
             case MiamiHerald:
-                driver.get("http://www..com/");
+                driver.get("https://www.miamiherald.com/");
                 break;
         }
     }
