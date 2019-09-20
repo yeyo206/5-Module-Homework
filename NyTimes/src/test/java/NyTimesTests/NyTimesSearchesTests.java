@@ -33,6 +33,7 @@ public class NyTimesSearchesTests extends NyTimesSearches {
     public void testSearchBar(){
         searchForTodaysNews();
     }
+
     @Test
     public void testSubscribeButton(){
         clickSubscribeButton();
